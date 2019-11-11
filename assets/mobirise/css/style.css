@@ -1720,8 +1720,8 @@ html {
 }
 
 .form-control {
-  /* background: #eef2f7;
-  padding:1rem; */
+  background: #fff;
+  border: none;
 }
 
 .align-center {
