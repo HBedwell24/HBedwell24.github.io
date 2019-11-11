@@ -1724,6 +1724,13 @@ html {
   border: none;
 }
 
+#profilePic {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 27px;
+  border: 3px solid #fff;
+}
+
 .align-center {
   text-align: center;
 }
@@ -1795,6 +1802,11 @@ section.form .container {
   -webkit-align-items: start;
   -ms-flex-align: start;
   align-items: start;
+}
+
+#footerImage {
+  width: 125px;
+  height: 125px;
 }
 
 @media (min-width: 992px) {
